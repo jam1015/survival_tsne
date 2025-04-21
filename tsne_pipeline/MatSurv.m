@@ -941,7 +941,6 @@ if sum(rem_indx) > 0
         fprintf('\n');
         fprintf('*********************************\n');
     end
-    
 end
 
 numEvenTypes = length(unique(EventVar));

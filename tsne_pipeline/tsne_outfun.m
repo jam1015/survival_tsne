@@ -18,8 +18,6 @@ switch state
     case 'done'
         
         
-        
-        
         color_map_string = 'aeb01'; %setting color map
         
         palette = GetMatSurvColorPalette(color_map_string);

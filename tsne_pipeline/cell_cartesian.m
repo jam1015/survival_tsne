@@ -12,6 +12,5 @@ dim_2 = num2cell(dim_2');
 cartesian_cell = cellfun(@(x,y) {cell_1{x},cell_2{y}} ,dim_1,dim_2,'UniformOutput',false)
 
 
-
 end
 

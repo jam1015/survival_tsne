@@ -951,7 +951,6 @@ end
 end
 
 
-
 function [TimeVar, EventVar, GroupVar] = MatSurvLoadTestData
 % Test example taken from "Freireich, EJ et al. 1963, Blood, 21, 699-716)"
 

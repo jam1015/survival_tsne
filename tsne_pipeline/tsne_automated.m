@@ -55,7 +55,6 @@ all_diseases = unique(t.disease_type);  %getting this cell array to possibly loo
 
 %annotation of what is in the cell so I can test on individual diseases
 
-%
 %     1{'Acute_Myeloid_Leukemia_marrow'                                   }
 %     2{'Acute_Myeloid_Leukemia_peripheral'                               }
 %     3{'Adrenocortical_Carcinoma'                                        }
